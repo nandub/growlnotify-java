@@ -1,0 +1,9 @@
+Specification-Title: growlnotify-java
+Specification-Version: ${pom.version} - ${build.time}
+Specification-Vendor: Fernando Ortiz
+Implementation-Title: growlnotify
+Implementation-Version: ${pom.version} - ${build.time}
+Implementation-Vendor: Fernando Ortiz
+Built-By: ${user.name}
+Build-Jdk: ${java.version}
+Build-Time: ${build.time}
